@@ -1,0 +1,41 @@
+>> How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It reduced the time taken looking for the mistake.
+Made the differences between the files easily spottable.
+
+>> How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It reduced time looking for mistakes when comparing versions.
+If the current version goes wrong, I won't have to code everything from scratch. I will just revert back to a working version.
+
+>> What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros:
+- It enables the user to choose which commits are the most important.
+- It allows the project to be developed systematically.
+- All previous versions can be accessed offline.
+
+Cons:
+- The user may forget to commit some changes.
+- Changes may get hard to understand if there are too many commits.
+- Not commiting frequently causes less versions of the project to be saved which will make changes to the project much harder.
+
+>> Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because in Git the files usually stored are often interrelated whilst in Google Docs files are independent of each other.
+
+>> How can you use the commands git log and git diff to view the history of files?
+
+git log enables the user to see all the commmits made on the repository.
+git diff enables the user to see the changes that were made between to the files between two commits.
+
+>> How might using version control make you more confident to make changes that could break something?
+
+I can make changes knowing that I can easily revert back to working versions of the project in case something goes wrong.
+
+>> Now that you have your workspace set up, what do you want to try using Git for?
+
+I wanna use git to become more organized with my projects and be able to work with others on the same project more efficiently.
+
+
+

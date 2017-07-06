@@ -1,0 +1,3 @@
+>> What happens when you initialize a repository? Why do you need to do it?
+
+It creates a hidden file called .git which will contain the versions of the files in the repository. Initialization is important because it tells git which directory we want to use VC in.
