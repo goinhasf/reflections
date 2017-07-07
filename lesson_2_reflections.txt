@@ -17,3 +17,7 @@ When the developer wants to experiment with a new feature but doesn't yet want t
 >> How do the diagrams help you visualize the branch structure?
 
 It makes it easier for the developer to know the order of the commits and the different branches existing in the project.
+
+>> What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is one commit which incorporates all the changes made in the two branches. These changes are represented by joining the two branches into one, which shows that the two branches have merged.
