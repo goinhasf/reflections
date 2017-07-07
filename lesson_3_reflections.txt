@@ -4,3 +4,8 @@
 - When working from different machines
 - When wanting have files in multiple spots to minimize data loss in case the local repository is deleted or corrupted.
 
+>> Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Forks: Are repositories which are clones of other user repositories using github. 
+- Clones: these are copies of existing repositories. These clones can be done either locally or on gihub. Clones are usually used to make commits to the project being worked on, and then later on push those changes to GitHub
+- Branches: branches represent a version of a given project usually independent of the main branch. These are used when a developer wants to add an aditional feature but not necessarily make it part of the main branch until completion. Branches are used when pushing versions of a repository into github.
