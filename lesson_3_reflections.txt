@@ -1,1 +1,6 @@
-When would you create a remote repository rather than keeping all your work local?
+>> When would you create a remote repository rather than keeping all your work local? 
+
+- When collaborating with others
+- When working from different machines
+- When wanting have files in multiple spots to minimize data loss in case the local repository is deleted or corrupted.
+
