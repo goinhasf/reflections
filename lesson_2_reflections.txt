@@ -21,3 +21,13 @@ It makes it easier for the developer to know the order of the commits and the di
 >> What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is one commit which incorporates all the changes made in the two branches. These changes are represented by joining the two branches into one, which shows that the two branches have merged.
+
+>> What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros:
+	- Saves the developer a lot of time.
+	- Accuratelly determines the best way to merge files.
+	Cons:
+	- It cannot merge when there are conflicts.
+	- Accidental merging may mean that some code becomes unusable or uncompilable.
+
