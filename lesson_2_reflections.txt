@@ -13,3 +13,7 @@ It acts as an extra step before commiting the file into the repository. This all
 >> What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When the developer wants to experiment with a new feature but doesn't yet want to make that feature part of the game. Branches would help by creating a new version of the repository that is independent from the master branch.
+
+>> How do the diagrams help you visualize the branch structure?
+
+It makes it easier for the developer to know the order of the commits and the different branches existing in the project.
