@@ -9,3 +9,7 @@
 - Forks: Are repositories which are clones of other user repositories using github. 
 - Clones: these are copies of existing repositories. These clones can be done either locally or on gihub. Clones are usually used to make commits to the project being worked on, and then later on push those changes to GitHub
 - Branches: branches represent a version of a given project usually independent of the main branch. These are used when a developer wants to add an aditional feature but not necessarily make it part of the main branch until completion. Branches are used when pushing versions of a repository into github.
+
+>> What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows the developer to work offline and know which changes have been made. One can also uses these changes and incorporate them into their local master branch through merging.
