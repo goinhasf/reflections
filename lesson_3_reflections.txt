@@ -18,4 +18,6 @@ It allows the developer to work offline and know which changes have been made. O
 
 - Manually transfering files to a cloud like google drive. It would be easier than setting up repositories and learning all the commands required for git.
 
-- It would be harder to perform versions control as every versions would have to be stored in different folders with different names. 
+- It would be harder to perform versions control as every versions would have to be stored in different folders with different names.
+
+- Doing VC wihtout GitHub means that more space is required to store all the versions of a project while git is more memory efficient and stores only the changes done to the parent commit.
