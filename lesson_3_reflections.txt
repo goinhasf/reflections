@@ -21,3 +21,8 @@
 	- It would be harder to perform versions control as every versions would have to be stored in different folders with different 		names.
 
 	- Doing VC wihtout GitHub means that more space is required to store all the versions of a project while git is more memory 		efficient and stores only the changes done to the parent commit.
+
+>> When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	- When adding a new feature. This allows the developer to experiment with that feature before introducing it to the project.
+	- It allows for collaboration between developers.
