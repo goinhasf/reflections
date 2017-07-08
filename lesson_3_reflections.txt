@@ -13,3 +13,9 @@
 >> What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows the developer to work offline and know which changes have been made. One can also uses these changes and incorporate them into their local master branch through merging.
+
+>> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Manually transfering files to a cloud like google drive. It would be easier than setting up repositories and learning all the commands required for git.
+
+It would be harder to perform versions control as every versions would have to be stored in different folders with different names. 
