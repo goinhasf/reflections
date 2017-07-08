@@ -1,23 +1,23 @@
 >> When would you create a remote repository rather than keeping all your work local? 
 
-- When collaborating with others
-- When working from different machines
-- When wanting have files in multiple spots to minimize data loss in case the local repository is deleted or corrupted.
+	- When collaborating with others
+	- When working from different machines
+	- When wanting have files in multiple spots to minimize data loss in case the local repository is deleted or corrupted.
 
 >> Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-- Forks: Are repositories which are clones of other user repositories using github. 
-- Clones: these are copies of existing repositories. These clones can be done either locally or on gihub. Clones are usually used to make commits to the project being worked on, and then later on push those changes to GitHub
-- Branches: branches represent a version of a given project usually independent of the main branch. These are used when a developer wants to add an aditional feature but not necessarily make it part of the main branch until completion. Branches are used when pushing versions of a repository into github.
+	- Forks: Are repositories which are clones of other user repositories using github. 
+	- Clones: these are copies of existing repositories. These clones can be done either locally or on gihub. Clones are usually used 	to make commits to the project being worked on, and then later on push those changes to GitHub
+	- Branches: branches represent a version of a given project usually independent of the main branch. These are used when a 		developer wants to add an aditional feature but not necessarily make it part of the main branch until completion. Branches are 		used when pushing versions of a repository into github.
 
 >> What is the benefit of having a copy of the last known state of the remote stored locally?
 
-It allows the developer to work offline and know which changes have been made. One can also uses these changes and incorporate them into their local master branch through merging.
+	It allows the developer to work offline and know which changes have been made. One can also uses these changes and incorporate 		them into their local master branch through merging.
 
 >> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-	- Manually transfering files to a cloud like google drive. It would be easier than setting up repositories and learning all the commands required for git.
+	- Manually transfering files to a cloud like google drive. It would be easier than setting up repositories and learning all the 	commands required for git.
 
-	- It would be harder to perform versions control as every versions would have to be stored in different folders with different names.
+	- It would be harder to perform versions control as every versions would have to be stored in different folders with different 		names.
 
-	- Doing VC wihtout GitHub means that more space is required to store all the versions of a project while git is more memory efficient and stores only the changes done to the parent commit.
+	- Doing VC wihtout GitHub means that more space is required to store all the versions of a project while git is more memory 		efficient and stores only the changes done to the parent commit.
